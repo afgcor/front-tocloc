@@ -1,0 +1,31 @@
+[
+    {
+      "categoria": "Futebol",
+      "quadras": [
+        {
+          "nome": "Quadra A",
+          "endereco": "Rua X, 123",
+          "preco": "R$ 100,00",
+          "foto": "/image/quadra_tenis.png"
+        },
+        {
+          "nome": "Quadra B",
+          "endereco": "Rua Y, 456",
+          "preco": "R$ 120,00",
+          "foto": "path_to_foto_b.jpg"
+        }
+      ]
+    },
+    {
+      "categoria": "Basquete",
+      "quadras": [
+        {
+          "nome": "Quadra 1",
+          "endereco": "Av. Z, 789",
+          "preco": "R$ 150,00",
+          "foto": "path_to_foto_1.jpg"
+        }
+      ]
+    }
+  ]
+  
